@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on TicTacToe Game with C Programming Language.<br>🌱 I’m currently learning C on YouTube<br>📫 How to reach me elliifugur@gmail.com<br><br><br><br><br>
+# 💫 Hi, I'm Elif!
+<h3 align="center">An undergraduate student studying Industrial Engineering at Kadir Has University.</h3>
+
+- 👩🏻 Hello, my name is Elif, I am studying Industrial Engineering at Kadir Has University. I started learning C and Python programming languages this year to improve my programming skills and because of my interest in software.
+- 🔭 I’m currently working on [TicTacToe Game](https://github.com/elif-ugur/Tic_Tac_Toe_Game)
+- 📫 How to reach me [elliifugur@gmail.com](mailto:elliifugur@gmail.com)
+- 🌱 I’m currently learning C Language
+- 💬 Feel free to contact me about anything you want.
 
 
 ## 🌐 Socials:
